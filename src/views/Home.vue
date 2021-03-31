@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <div class="row align-items-center h-90">
-      <div class="col-md-6">
+      <div class="col-lg-6">
         <h1 class="display-4 mb-2">Notes Manager</h1>
         <h4 class="mb-5">Log In or Sign Up to write, <br>edit and delete notes.</h4>
         
@@ -13,7 +13,7 @@
           <button type="submit" class="btn btn-primary">Sign Up</button>
         </router-link>
       </div>
-      <div class="col-md-6">
+      <div class="col-lg-6">
         <img src="../assets/notes.jpg" class="rounded" width="100%" alt="notes">
       </div>
     </div>

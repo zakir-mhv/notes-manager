@@ -1,6 +1,6 @@
 <template>
   <div>
-    <nav class="navbar navbar-expand-md bg-dark navbar-dark py-0">
+    <nav class="navbar navbar-expand-lg bg-dark navbar-dark py-0">
       
       <router-link class="nav-item" to="/">
         <a class="navbar-brand">

@@ -1,7 +1,7 @@
 <template>
   <div class="login">
     <h1 class="text-center my-3 display-4">Login</h1>
-    <div class="col-md-4 offset-md-4 mt-5 p-5 border border-success rounded bgWhite">
+    <div class="col-lg-4 offset-lg-4 mt-5 p-5 border border-success rounded bgWhite">
       <form @submit.prevent="login()">
         <div class="form-group">
           <label>Email</label>
