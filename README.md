@@ -13,8 +13,8 @@ Notes Manager is a fully functional web application that allows you to create an
 
 ## Technologies used
 
+- **Vue**
 - **Bootstrap**
-- **Vue.js**
 - **Google Firebase**
 
 ## Installation
